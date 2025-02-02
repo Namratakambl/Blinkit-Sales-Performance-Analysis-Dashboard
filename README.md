@@ -18,8 +18,8 @@ This project involves analyzing Blinkit's sales performance, customer satisfacti
 - Microsoft Excel (Pivot Tables, Charts, Formulas, Dashboards)
 - Data Visualization
 
-## Screenshot
-![Dashboard Screenshot] <img width="569" alt="image" src="https://github.com/user-attachments/assets/f987202c-c7fc-4532-bfb3-9b2ad53a99b1" />
+## Dashbord Screenshot
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/f987202c-c7fc-4532-bfb3-9b2ad53a99b1" />
 
 
 ## Tags
